@@ -1,3 +1,3 @@
 # BookPick_Web
 Web app for selecting books using nlp methods.
-node js, the framework express js, database PostgreSQL
+Node js, the framework Express js, Database PostgreSQL
